@@ -1,4 +1,6 @@
 # try
 explore
 
-happy new year
+have a nice day
+
+have a good time
