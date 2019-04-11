@@ -1,5 +1,6 @@
 # try
 explore
+
 have a try
 
-happy
+study something new
